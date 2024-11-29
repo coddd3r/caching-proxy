@@ -1,0 +1,10 @@
+[package]
+name = "caching-proxy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustls = "0"
+webpki-roots = "0"
+dns-lookup = "2"
+reqwest = "0"
